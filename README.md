@@ -1,3 +1,3 @@
 #Kakao Clone 2022 Update
 
-CSS got so much better!
+Both HTML and CSS got so much better!
